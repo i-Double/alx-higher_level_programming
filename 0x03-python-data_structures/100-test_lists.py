@@ -19,4 +19,3 @@ l.append(4)
 lib.print_python_list_info(l)
 l.pop()
 lib.print_python_list_info(l)
-
